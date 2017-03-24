@@ -1,4 +1,4 @@
 node_modules/
-typings.json
 typings/
 *.d.ts
+typings*
