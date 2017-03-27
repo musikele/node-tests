@@ -2,3 +2,4 @@ node_modules/
 typings/
 *.d.ts
 typings*
+yarn.lock
